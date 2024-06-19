@@ -1,14 +1,14 @@
 import React from 'react'
 import './Page.scss'
+import Navbar from '../Navbar/Navbar'
+import Background from '../Background/Background'
 
 const Page = () => {
   return (
     <div>
-        <div className="bg-main">
-            <div className="head">
-                 <h3>Data</h3>
-            </div>
-        </div>
+     <Navbar/>
+     <Background/>
+  
       
     </div>
   )
