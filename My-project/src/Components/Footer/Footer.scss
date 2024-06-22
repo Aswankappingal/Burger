@@ -1,0 +1,32 @@
+.whole{
+    background-color: #070e16;
+    height: 40vh;
+}
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  .footer-logo img {
+    max-width: 150px;
+    margin-bottom: 30px;
+    margin-left: 30%;
+  }
+  
+  .footer-links a {
+    color: #fff;
+    // margin: 0 20px;
+    text-decoration: none;
+    margin-left: 40px;
+  }
+  
+  .footer-social a {
+    color: #fff;
+
+    text-decoration: none;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+  }

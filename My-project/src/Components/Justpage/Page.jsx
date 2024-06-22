@@ -7,6 +7,7 @@ import Our from '../OurMenu/Our'
 import Reservation from '../Reservation/Reservation'
 import Test from '../TEst/Test'
 import Contact from '../CONTACT/Contact'
+import Footer from '../Footer/Footer'
 
 const Page = () => {
   return (
@@ -18,6 +19,7 @@ const Page = () => {
      <Reservation/>
      <Test/>
      <Contact/>
+     <Footer/>
 
 
   

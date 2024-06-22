@@ -7,7 +7,7 @@
 .mainerrr {
 
     background-color: #070e16;
-    height: 100vh;
+    height: 80vh;
     color: aliceblue;
     text-align: center;
 
@@ -81,6 +81,7 @@
     text-decoration: none;
     font-weight: bold;
     transition: background-color 0.3s ease;
+    cursor: pointer;
   }
   
   .contact-form button:hover {
