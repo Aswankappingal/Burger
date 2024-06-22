@@ -13,39 +13,41 @@ const About = () => {
           </h3>
           <p>
 
-          Experience the finest gourmet burgers in a cozy and rustic atmosphere. At Berger Hut, we are dedicated to delivering exceptional flavors that will tantalize your taste buds.
+            Experience the finest gourmet burgers in a cozy and rustic atmosphere. At Berger Hut, we are dedicated to delivering exceptional flavors that will tantalize your taste buds.
 
-            
+
           </p>
 
           <p className='data'>
-          Our chefs meticulously craft each burger using locally sourced ingredients and unique flavor combinations. From juicy beef patties to mouthwatering vegetarian options, there's something for everyone.
+            Our chefs meticulously craft each burger using locally sourced ingredients and unique flavor combinations. From juicy beef patties to mouthwatering vegetarian options, there's something for everyone.
           </p>
+
+          <div className="btn">
+
+            <button>
+              Explore Our Menu
+            </button>
+
+          </div>
         </div>
 
         <div className="header-left">
-         <div className="image-bar">
-          <img src="../../../public/about-image.jpg" alt="" />
-         </div>
+          <div className="image-bar">
+            <img src="../../../public/about-image.jpg" alt="" />
+          </div>
 
-         <div className="btn">
 
-         <button>
-            Explore Our Menu
-          </button>
-
-         </div>
 
 
         </div>
 
-      
 
-   
+
+
 
 
       </div>
-        
+
       <h3>
         hhhahahh
       </h3>
