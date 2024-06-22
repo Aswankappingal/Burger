@@ -5,6 +5,7 @@ import Background from '../Background/Background'
 import About from '../About/About'
 import Our from '../OurMenu/Our'
 import Reservation from '../Reservation/Reservation'
+import Test from '../TEst/Test'
 
 const Page = () => {
   return (
@@ -14,6 +15,7 @@ const Page = () => {
      <About/>
      <Our/>
      <Reservation/>
+     <Test/>
 
   
       
