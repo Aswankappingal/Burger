@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+.reserv-main{
+    background-color: #070e16;
+    padding: 80px 0;
+  text-align: center;
+
+}
+
+
+//////////////////////imp //////
+
+.reservation-form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #222121;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .reservation-form h2 {
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+.reservation-form form input,
+.reservation-form form textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: none;
+}
