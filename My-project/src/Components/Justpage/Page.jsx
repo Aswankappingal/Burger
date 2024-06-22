@@ -3,6 +3,7 @@ import './Page.scss'
 import Navbar from '../Navbar/Navbar'
 import Background from '../Background/Background'
 import About from '../About/About'
+import Our from '../OurMenu/Our'
 
 const Page = () => {
   return (
@@ -10,6 +11,7 @@ const Page = () => {
      <Navbar/>
      <Background/>
      <About/>
+     <Our/>
 
   
       

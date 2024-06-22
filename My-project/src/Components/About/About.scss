@@ -53,5 +53,11 @@
     color: #fff ;
     border-radius: 5px;
     font-size: 14px;
+    cursor: pointer;
 
+}
+.btn button:hover{
+    color: rgba(255, 255, 255, 0.959);
+    background-color: rgba(255, 0, 0, 0.418);
+    transition: 0.3s;
 }

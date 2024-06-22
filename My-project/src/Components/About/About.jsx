@@ -48,10 +48,6 @@ const About = () => {
 
       </div>
 
-      <h3>
-        hhhahahh
-      </h3>
-
 
     </div>
   )
