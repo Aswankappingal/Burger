@@ -6,6 +6,7 @@ import About from '../About/About'
 import Our from '../OurMenu/Our'
 import Reservation from '../Reservation/Reservation'
 import Test from '../TEst/Test'
+import Contact from '../CONTACT/Contact'
 
 const Page = () => {
   return (
@@ -16,6 +17,8 @@ const Page = () => {
      <Our/>
      <Reservation/>
      <Test/>
+     <Contact/>
+
 
   
       

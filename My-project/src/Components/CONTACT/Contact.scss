@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.mainerrr {
+
+    background-color: #070e16;
+    height: 100vh;
+    color: aliceblue;
+    text-align: center;
+
+
+}
+
+.contact {
+    background-color: #333;
+    padding: 80px 0;
+    text-align: center;
+    color: #fff;
+
+}
+
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-container h2 {
+    margin-bottom: 30px
+}
+
+.contact h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.info-item {
+    margin: 0 20px;
+    text-align: center;
+}
+
+.info-item i {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+
+/////////////////////contact form  ///
+///
+ .contact-form input,
+.contact-form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .contact-form textarea {
+    resize: vertical;
+  }
+  
+  .contact-form button {
+    display: inline-block;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-form button:hover {
+    background-color: #e60000;
+  }
+  .contact-orooorororm{
+    max-width: 50%;
+    margin-left: 27%;
+  }
