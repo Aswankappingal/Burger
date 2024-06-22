@@ -37,3 +37,22 @@
   border-radius: 5px;
   border: none;
 }
+
+//////////////btn
+
+.reservation-form form button {
+    display: inline-block;
+    background-color: #e79a9a;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .reservation-form form button:hover {
+    background-color: #e60000;
+  }
