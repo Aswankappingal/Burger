@@ -29,7 +29,11 @@ const About = () => {
          </div>
 
          <div className="btn">
-          
+
+         <button>
+            Explore Our Menu
+          </button>
+
          </div>
 
 
